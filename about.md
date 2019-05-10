@@ -2,14 +2,12 @@
 layout: page
 title: About
 permalink: /about/
+published: false
 ---
-
-Some information about you!
-
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I'm a passionate software developer. Enjoy learning new technology. My recent focus are microservice,CI/CD,and ruby on rails development. 
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[techitao.henry@dgmail.com](mailto:email@domain.com)
