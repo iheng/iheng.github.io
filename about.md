@@ -10,4 +10,4 @@ I'm a passionate software developer. Enjoy learning new technology. My recent fo
 
 ### Contact me
 
-[techitao.henry@dgmail.com](mailto:email@domain.com)
+[techitao.henry@gmail.com](mailto:email@domain.com)
