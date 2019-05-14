@@ -22,7 +22,7 @@ Try again, if you can call you service. or in your emulator,open a webbrowser vi
 
 if you still can't error messge. look up your host file
 in your local machine. you may setting up custom domain for it 
-### step3:Edit your emulator host file.
+#### step3:Edit your emulator host file.
 open a terminal and change your directory to /Library/Android/sdk/
 default image is read only. so you have to change it to writeble. under sdk directory change to tools directory 
 type command ` ./emulator -avd huawei_T3_10_API_24 -writable-system`
