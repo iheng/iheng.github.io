@@ -8,7 +8,7 @@ I tried to call api from emulator to my host machine and I got following error m
 ```E/flutter (16241): [ERROR:flutter/lib/ui/ui_dart_state.cc(148)] Unhandled Exception: SocketException: Failed host lookup: 'us1.uszcn.local' (OS Error: No address associated with hostname, errno = 7)```
 It took me one hour to figure out what's the issues is. 
 
-#### Step 1: 
+#### Step 1: Check whether internet pemisson was granted
 Open your AdroidManifest.xml file check whether internet pemisson was granted. if not add following to the file ` <uses-permission android:name="android.permission.INTERNET"/>`
 
 If after edit AdroidManifest.xml not solve your issue. which didb't solve my issue.
