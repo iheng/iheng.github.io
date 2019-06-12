@@ -7,7 +7,7 @@ title: running-rail-app-in-docker
 published: true
 ***
 
-#Use Docker Compose to set up and run a Rails/MYSQL app
+# Use Docker Compose to set up and run a Rails/MYSQL app
 
 #### Step 1: 
 ##### First, using `Dockfile` to Define the project
