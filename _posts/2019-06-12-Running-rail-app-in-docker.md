@@ -1,6 +1,6 @@
 ---
 layout: post
-title: running rail app in docker
+title: Running rail app in docker
 
 ---
 
