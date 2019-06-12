@@ -4,7 +4,7 @@ published: false
 ---
 layout: post
 title: running rail app in docker
-published: true
+
 ---
 
 # Use Docker Compose to set up and run a Rails/MYSQL app
