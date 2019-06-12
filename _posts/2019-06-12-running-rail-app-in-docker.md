@@ -1,7 +1,4 @@
 ---
-published: false
----
----
 layout: post
 title: running rail app in docker
 
